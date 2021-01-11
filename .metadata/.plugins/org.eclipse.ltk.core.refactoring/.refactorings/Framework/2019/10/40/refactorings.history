@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Framework/src/com/rak/rakapp/DAO&apos; to &apos;Transport&apos;" description="Rename resource &apos;DAO&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/rak/rakapp/DAO" name="Transport" stamp="1570122858042" updateReferences="true"/>
+</session>

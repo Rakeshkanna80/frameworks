@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;rak&apos; to &apos;com&apos;" description="Move &apos;rak&apos; to &apos;com&apos;" destination="src/com" element1="src/rak" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1571151880086" updateReferences="true"/>
+</session>

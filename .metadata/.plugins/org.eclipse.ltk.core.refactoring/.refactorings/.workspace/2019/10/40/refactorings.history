@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Framework/src/com/rak/rakapp/Transport&apos;" deleteContents="false" description="Delete resource &apos;Framework/src/com/rak/rakapp/Transport&apos;" element1="/Framework/src/com/rak/rakapp/Transport" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1570107190612"/>
+</session>

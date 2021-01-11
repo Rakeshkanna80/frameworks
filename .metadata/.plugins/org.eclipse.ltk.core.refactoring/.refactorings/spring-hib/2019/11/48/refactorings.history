@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;spring-hib/src/resources/hibernate.cfg.xml&apos; to &apos;hibernate.xml&apos;" description="Rename resource &apos;hibernate.cfg.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/hibernate.cfg.xml" name="hibernate.xml" stamp="1574665439501" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;spring-hib/src/resources/context.xml&apos; to &apos;spring.xml&apos;" description="Rename resource &apos;context.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/context.xml" name="spring.xml" stamp="1574665724815" updateReferences="true"/>
+</session>

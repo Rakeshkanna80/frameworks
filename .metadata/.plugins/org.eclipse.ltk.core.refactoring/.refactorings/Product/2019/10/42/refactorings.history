@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;DAO&apos; to &apos;rakapp&apos;" description="Move &apos;DAO&apos; to &apos;rakapp&apos;" destination="src/com/rak/rakapp" element1="src/com/rak/rakapp/DTO/DAO" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1571331363931" updateReferences="true"/>
+</session>

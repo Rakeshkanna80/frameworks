@@ -1,0 +1,15 @@
+package com.rak.rakapp.list;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ApplicationContext applicationContext=new ClassPathXmlApplicationContext("Resources/list.xml");
+		applicationContext.getBean(ListDemo.class);
+		
+	}
+
+}

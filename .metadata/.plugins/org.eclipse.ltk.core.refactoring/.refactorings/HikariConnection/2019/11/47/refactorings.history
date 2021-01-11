@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HikariConnection/src/resources/combine.xml&apos; to &apos;hikari.xml&apos;" description="Rename resource &apos;combine.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/combine.xml" name="hikari.xml" stamp="1574442975668" updateReferences="true"/>
+</session>

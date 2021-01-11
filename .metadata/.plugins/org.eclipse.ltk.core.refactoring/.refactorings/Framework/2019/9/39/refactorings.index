@@ -1,0 +1,7 @@
+1569472940606	Rename type 'StadiumDto'
+1569494606891	Move 'StadiumDTO.java' to 'DTO'
+1569496630539	Move 'Stadium' to 'rakapp'
+1569496646287	Move 2 resources to 'Stadium'
+1569567555491	Rename type 'Transport'
+1569568154239	Move 'TransportDAO.java' to 'DAO'
+1569568241817	Rename type 'TransportIMPL'

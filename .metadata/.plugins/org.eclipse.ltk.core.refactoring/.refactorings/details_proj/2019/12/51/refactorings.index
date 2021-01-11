@@ -1,0 +1,6 @@
+1576468084407	Rename resource 'springjc.xml'
+1576469194498	Move 'Detailsdto.java' to 'dto'
+1576498575924	Encapsulate field 'confirmPassword'
+1576499910481	Rename resource 'DetailsdaoImpl.java'
+1576500698063	Rename resource 'Detailsdao.java'
+1576600379698	Encapsulate field 'confirmPassword'

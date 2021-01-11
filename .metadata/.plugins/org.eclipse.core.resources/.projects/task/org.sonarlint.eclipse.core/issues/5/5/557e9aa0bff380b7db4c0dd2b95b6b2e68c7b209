@@ -1,0 +1,22 @@
+
+ƒsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ö¾”èÿÿÿÿÿ8Çì¦í-HµRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎºÅ8Îö¦í-H¶RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú ”§ÿÿÿÿÿ8ÆïÔ¦í-H²RMAJORZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ğã±·8üúç¬í-H¼RMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(®ßÇ¨8ëª¹¬í-HºRMAJORZ
+CODE_SMELL
+ƒsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(öÜ±ìøÿÿÿÿ8ÖÚœ­í-H¿RMINORZ
+CODE_SMELL
+ƒsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ñÎÛ«şÿÿÿÿ8ÀéÉ¬í-H»RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å™”î8¥ÊÜ¦í-H³RMAJORZ
+CODE_SMELL
